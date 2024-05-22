@@ -1,3 +1,3 @@
 .env
-langchain_intro/*
+langchain_intro_legacy/*
 .python-version
