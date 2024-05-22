@@ -1,3 +1,4 @@
 .env
 langchain_intro_legacy/*
 .python-version
+chromadb_intro/chroma_data/*
