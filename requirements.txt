@@ -117,6 +117,7 @@ parso==0.8.4
 pexpect==4.9.0
 pillow==10.3.0
 platformdirs==4.2.2
+polars==0.20.28
 posthog==3.5.0
 preshed==3.0.9
 prompt-toolkit==3.0.43
