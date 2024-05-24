@@ -3,3 +3,4 @@ langchain_intro_legacy/*
 .python-version
 chromadb_intro/chroma_data/*
 chromadb_intro/data/*
+rag_main/data/*
